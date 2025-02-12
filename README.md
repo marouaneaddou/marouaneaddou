@@ -45,12 +45,14 @@ I'm always eager to learn, tackle new challenges, and create innovative solution
 
 
 ## Get in Touch
-- **LinkedIn:** [Marouane Addou](https://www.linkedin.com/in/marouane-addou-303997202)
-- **Email:** [marouaneaddou@hotmail.com](https://www.linkedin.com/in/marouane-addou-303997202)
+<div> 
+  <a  href="marouaneaddou@hotmail.com" >
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <a  href="https://www.linkedin.com/in/marouane-addou-303997202" >
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 
 ###
 ## Profile 42
-<div align="center">
-  <img src="https://badge.mediaplus.ma/binary/maddou" alt="maddou's 42 stats" height="200" />
-</div>
+[![maddou's 42 stats](https://badge.mediaplus.ma/binary/maddou)](https://github.com/oakoudad/badge42)
