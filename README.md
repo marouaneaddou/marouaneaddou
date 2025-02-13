@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marouane Addou</h2>
+<h2 align="left">Hi 👋! I'm  Marouane Addou</h2>
 
 ###
 
