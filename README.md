@@ -54,8 +54,8 @@ I'm always eager to learn, tackle new challenges, and create innovative solution
 
 
 ###
-## Profile 42
-<div align="center">
-  <img src="https://badge.mediaplus.ma/binary/maddou" alt="maddou's 42 stats" height="200" />
-</div>
-<!-- [![maddou's 42 stats](https://badge.mediaplus.ma/binary/maddou)](https://github.com/oakoudad/badge42) -->
+<!--## Profile 42-->
+<!--<div align="center">--->
+<!--   <img src="https://badge.mediaplus.ma/binary/maddou" alt="maddou's 42 stats" height="200" /> -->
+<!-- </div> -->
+<!-- ![maddou's 42 stats](https://badge.mediaplus.ma/binary/maddou)](https://github.com/oakoudad/badge42) -->
