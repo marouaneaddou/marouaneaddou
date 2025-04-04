@@ -12,11 +12,12 @@ I'm a **Computer Science student** passionate about **Software Engineering**. Cu
 
 I'm always eager to learn, tackle new challenges, and create innovative solutions through code. My passion for **Software Engineering** drives me to continuously explore new technologies and improve my skills. I’m particularly interested in **system design**, **algorithms**, and **data structures**, and I strive to enhance my abilities in both **front-end** and **back-end** development.
 
----
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marouaneaddou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marouaneaddou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marouaneaddou&theme=dracula&show_icons=true" width="320" height="150" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marouaneaddou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="320" height="150" alt="Languages Graph" />
 </div>
+
+
 
 ## Technologies & Tools
 <div align="left">
