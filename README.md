@@ -4,7 +4,7 @@
 
 ###
 
-I'm a **Computer Science student** passionate about **Software Engineering**. Currently studying at **1337 Coding School**, I specialize in **C++**, **C**, **Python**, **JavaScript**, with a strong focus on **Web Development**.
+I'm a **Computer Science student** passionate about **Software Engineering**. Currently studying at **1337 Coding School**, I specialize in **C++**, **C**, **Python**, **Node.js**, **JavaScript**, with a strong focus on **Web Development**.
 
 ---
 
