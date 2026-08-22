@@ -4,14 +4,26 @@
 
 ###
 
-I'm a **Computer Science student** passionate about **Software Engineering**. Currently studying at **1337 Coding School**, I specialize in **C++**, **C**, **Python**, **Node.js**, **JavaScript**, with a strong focus on **Web Development**.
+I'm a **Backend Developer** passionate about **Software Engineering**. I build backend applications using **Node.js**, **TypeScript** and **Java** , with a focus on **APIs**, **databases**, **authentication**, and **real-time applications**.
 
 ---
 
 ## About Me
 
-I'm always eager to learn, tackle new challenges, and create innovative solutions through code. My passion for **Software Engineering** drives me to continuously explore new technologies and improve my skills. I’m particularly interested in **system design**, **algorithms**, and **data structures**, and I strive to enhance my abilities in both **front-end** and **back-end** development.
+I'm a Backend Developer who enjoys building applications and solving problems through code. I like understanding how different parts of a backend work together, from handling requests and business logic to storing and processing data.
 
+I'm interested in:
+* **REST APIs**
+* **Databases and data modeling**
+* **Authentication and authorization**
+* **Real-time applications**
+* **Backend architecture**
+* **Testing and clean code**
+* **LLMs, RAG, and Agentic AI**
+
+I learn by building real projects, solving technical problems, and improving my code step by step.
+
+I'm currently improving my knowledge of **Java** and **Spring Boot** while learning more about **system design**, **software architecture** **LLMs**, **RAG**, and **Agentic AI**. My goal is to become a **strong Backend / Software Engineer** and build applications that solve real problems.
 <!-- <div align="center"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=marouaneaddou&theme=dracula&show_icons=true" width="320" height="150" alt="GitHub Stats" />   -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marouaneaddou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="320" height="150" alt="Languages Graph" />
