@@ -3,8 +3,7 @@
 ###
 
 ###
-
-I'm a **Backend Developer** passionate about **Software Engineering**. I build backend applications using **Node.js**, **TypeScript** and **Java** , with a focus on **APIs**, **databases**, **authentication**, and **real-time applications**.
+I'm a **Backend Developer** and **Software Engineering student at 1337 Coding School**, passionate about Software Engineering and with a growing interest in LLMs, RAG, and Agentic AI. I build **backend applications** using **Node.js**, **TypeScript**, and **Java**, with a focus on **APIs**, **databases**, **authentication**, and **real time applications**.
 
 ---
 
