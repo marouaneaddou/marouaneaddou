@@ -28,6 +28,11 @@ I'm currently improving my knowledge of **Java** and **Spring Boot** while learn
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marouaneaddou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="320" height="150" alt="Languages Graph" />
 </div> -->
 
+<div align="center">
+  <!-- <a href="https://github.com/oakoudad/badge42"> -->
+    <img src="https://badge.mediaplus.ma/black/maddou" alt="maddou's 42 stats" />
+  <!-- </a> -->
+</div>
 
 
 ## Technologies & Tools
